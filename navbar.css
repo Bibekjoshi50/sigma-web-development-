@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+
+}
+#navbar{
+    height: 60px;
+    background-color: rgb(2, 2, 2);
+
+
+}
+button{
+    background-color: rgb(151, 151, 42);
+}
+#logo{
+    color: rgb(163, 163, 49);
+}
+a {
+    margin-right:200px; ;
+    text-decoration: none;
+}
