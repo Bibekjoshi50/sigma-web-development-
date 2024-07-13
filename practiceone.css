@@ -1,3 +1,15 @@
 #box{
     background-color: blue;
 }
+.heading{
+    color: red;
+}
+button{
+    background-color: green;
+    color: blue;
+
+}
+p{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
