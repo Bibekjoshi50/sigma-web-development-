@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+#navbar{
+    height: 60px;
+    background-color: rgb(2, 2, 2);
+    color: rgb(113, 105, 105);
+
+
+
+}
+button{
+    background-color: rgb(151, 151, 42);
+}
+#logo{
+    color: rgb(163, 163, 49);
+}
+a {
+    margin-right:200px; ;
+    text-decoration: none;
+}
+.contactbox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    
+    }
+    #content{
+        height: 630px;
+    }
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
