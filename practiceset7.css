@@ -1,0 +1,19 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(224, 84, 8);
+    text-align: center;
+    transition-duration: 2s;
+    transition-timing-function: steps(5s);
+    
+}
+div:hover{
+    background-color: rgb(46, 213, 28);
+    animation: 2ms;
+    font-size: larger;
+    transform: rotate(45deg);
+}
+div:active{
+    background-color: pink;
+
+}
