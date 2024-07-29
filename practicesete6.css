@@ -1,14 +1,31 @@
-div{
-    background-color: pink;
+.navbar{
+    background-color: rgb(204, 135, 32);
     display: flex;
+    justify-content: space-evenly;
 
 }
+
 a{
    text-decoration: none; 
-   color: black;
-   background-color: aqua;
+   color: red;
+   background-color: rgb(79, 126, 126);
 }
 li{
     list-style: none;
 display: inline;
+background-color: white;
+
+}
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+.inner{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(135, 43, 215);
 }
